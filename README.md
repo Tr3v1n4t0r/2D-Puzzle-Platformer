@@ -1,1 +1,1 @@
-# 2D-Puzzle-Platformer
+# 2D Puzzle Platformer
