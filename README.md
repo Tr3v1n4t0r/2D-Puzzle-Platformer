@@ -7,6 +7,10 @@ This is a little 2D game that was created for the Porfolio Project at Holberton 
 * Download the file contained in the 'Output' folder
 * Run the installer
 
+## Key Features
+### Disk Animation
+![Gif of Disk](https://gph.is/g/4VnYLQY)
+
 ## Folder Descriptions
 #### 2D Puzzle Platformer_Data
 - This folder contains a lot of extra data for the final game build
