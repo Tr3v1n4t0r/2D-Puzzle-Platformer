@@ -8,20 +8,19 @@ This is a little 2D game that was created for the Porfolio Project at Holberton 
 * Run the installer
 
 ## Key Features
-### Disk Animation
-![Gif of Disk](https://gph.is/g/4VnYLQY)
+### A Lever
+![Image of Lever](https://imgur.com/ghVK2fh.png)
+- This is a lever that allows one to open a gate that blocks the finish door
 
-## Folder Descriptions
-#### 2D Puzzle Platformer_Data
-- This folder contains a lot of extra data for the final game build
-#### Assets
-- This folder contains all of the assets used in the game from sprites to scripts
-#### Output
-- This folder contains the install file for the game
-#### Packages
-- This folder contains a file with some extra information for Unity dependencies
-#### ProjectSettings
-- This folder contains all the pertinent data to run the game
+### A Pause Menu
+![Image of Pause Menu](https://imgur.com/JFTFNwQ.png)
+- When the player pushed escape, the pause menu appears and freezes the game behind it
+
+### A Disk
+![Image of Disk](https://media1.giphy.com/media/nlW4OEJ4Wc9nX5HlNb/giphy.gif)
+- This disk has an animation and can activate the lever in unreachable locations
+
+
 
 ## Bugs
 There are no known bugs at this time
