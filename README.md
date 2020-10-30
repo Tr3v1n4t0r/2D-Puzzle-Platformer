@@ -1,6 +1,8 @@
 # 2D Puzzle Platformer
 This is a little 2D game that was created for the Porfolio Project at Holberton School
 
+![Image of Game](https://i.imgur.com/DHGYOeW.png)
+
 ## Installation
 * Download the file contained in the 'Output' folder
 * Run the installer
