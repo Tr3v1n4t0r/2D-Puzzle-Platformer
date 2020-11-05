@@ -14,6 +14,7 @@ public class EndScene : MonoBehaviour
 
     public void QuitGame()
     {
+        // Debug.Log is used when testing in game
         Debug.Log("QUIT");
         Application.Quit();
     }
